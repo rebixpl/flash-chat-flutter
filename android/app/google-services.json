@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181943841946",
+    "project_id": "flash-chat-41972",
+    "storage_bucket": "flash-chat-41972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181943841946:android:3e3eb0ee981ff09e24db23",
+        "android_client_info": {
+          "package_name": "co.popecake.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181943841946-4amncq12m070g6440jo2tgs2aolca8bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPysTfIA8-RiQSbTbkNjy-S_8hwx7URw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181943841946-4amncq12m070g6440jo2tgs2aolca8bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
